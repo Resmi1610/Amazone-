@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-06T21:02:18 IST" name="Suite" finished-at="2025-02-06T21:02:34 IST" duration-ms="16065">
+    <groups>
+    </groups>
+    <test started-at="2025-02-06T21:02:18 IST" name="Test" finished-at="2025-02-06T21:02:34 IST" duration-ms="16065">
+      <class name="Testscript.Amazontestcases">
+        <test-method is-config="true" signature="beforesuit()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:18 IST" name="beforesuit" finished-at="2025-02-06T21:02:18 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:18 IST" name="beforetest" finished-at="2025-02-06T21:02:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:18 IST" name="beforeclass" finished-at="2025-02-06T21:02:18 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="browserIntialization(java.lang.String)[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:18 IST" name="browserIntialization" finished-at="2025-02-06T21:02:25 IST" duration-ms="7127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialization -->
+        <test-method signature="TC10(java.lang.String,java.lang.String)[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:25 IST" name="TC10" data-provider="testdatas" finished-at="2025-02-06T21:02:26 IST" duration-ms="1406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:26 IST" name="tearDown" finished-at="2025-02-06T21:02:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserIntialization(java.lang.String)[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:26 IST" name="browserIntialization" finished-at="2025-02-06T21:02:32 IST" duration-ms="5947" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserIntialization -->
+        <test-method signature="TC10(java.lang.String,java.lang.String)[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:32 IST" name="TC10" data-provider="testdatas" finished-at="2025-02-06T21:02:34 IST" duration-ms="1485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC10 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:34 IST" name="tearDown" finished-at="2025-02-06T21:02:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:34 IST" name="afterclass" finished-at="2025-02-06T21:02:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:34 IST" name="aftertest" finished-at="2025-02-06T21:02:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="aftersuit()[pri:0, instance:Testscript.Amazontestcases@413d1baf]" started-at="2025-02-06T21:02:34 IST" name="aftersuit" finished-at="2025-02-06T21:02:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- Testscript.Amazontestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

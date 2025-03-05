@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Testscript.Amazontestcases">
+        <methods>
+          <include name="afterclass"/>
+          <include name="tearDown"/>
+          <include name="aftertest"/>
+          <include name="beforesuit"/>
+          <include name="beforetest"/>
+          <include name="browserIntialization"/>
+          <include name="aftersuit"/>
+          <include name="TC09"/>
+          <include name="beforeclass"/>
+        </methods>
+      </class> <!-- Testscript.Amazontestcases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
